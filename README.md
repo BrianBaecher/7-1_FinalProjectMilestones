@@ -1,8 +1,8 @@
-What new design skills has your work on the project helped you to craft?
+<b>What new design skills has your work on the project helped you to craft?</b>
 None.
 
 What design process did you follow for your project work?
-\nThe rubric.
+The rubric.
 
 How could tactics from your design approach be applied in future work?
 I know what a bad set of instructions looks like.
