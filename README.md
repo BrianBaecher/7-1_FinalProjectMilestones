@@ -17,4 +17,4 @@
 <p>It didn't.</p>  
 
 <b>How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?</b> <br/>
-<p>I learned nothing from this class that I didn't already know from a few hours spent in Blender.</p>  
+<p>I learned nothing from this class that I didn't already know from a few hours spent in Blender and Unity.</p>  
