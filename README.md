@@ -1,4 +1,4 @@
-<b>What new design skills has your work on the project helped you to craft?</b>
+<b>What new design skills has your work on the project helped you to craft?</b> <br/>
 None.
 
 What design process did you follow for your project work?
